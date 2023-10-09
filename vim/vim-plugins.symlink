@@ -23,6 +23,7 @@ Plug 'tpope/vim-rails'
 Plug 'tpope/vim-fugitive'                     " A Git wrapper so awesome.
 Plug 'tpope/vim-rhubarb'                      " Enale Gbrowse for Github
 Plug 'airblade/vim-gitgutter'
+Plug 'github/copilot.vim'
 
 " Coloring plugins
 Plug 'jeffkreeftmeijer/vim-nightfall'         " magically switch between dark and light backgrounds according to the system dark mode

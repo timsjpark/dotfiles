@@ -10,7 +10,7 @@ let mapleader=","
 let g:lightline = {
       \   'colorscheme': 'solarized',
       \   'active': {
-			\     'left' : [ ['mode'], ['filename'], ['gitbranch'] ],
+			\     'left' : [ ['mode'], ['gitbranch'], ['relativepath'] ],
       \     'right': [ ['lineinfo'], ['fileformat', 'fileencoding'], ['filetype'] ]
       \   },
       \   'component_function': {

@@ -17,6 +17,8 @@ And finally, thank you [@robacarp](https://github.com/robacarp) for vim help.
 
 ## Installation & Updates
 
+another test change
+
 - Assuming you have the pre-requisites, `$ bash script/install` will get everything setup.
   - Things change over time, so run `$ bash upgrade-dotfiles` to pull in the latest
 and greatest.

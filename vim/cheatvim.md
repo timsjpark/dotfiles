@@ -16,10 +16,12 @@
 
 ## Editing
 
-** Personal Config**
+**Personal Config**
 
 - Select visual block and use `<S-</>>` to move left and right
   - I re-mapped the vim default so you stay in visual-mode
+- Swap out last yanked buffer with `<C-s>`
+  - This will swap out using `cw` so you mustb e at the start of the word you want to swap
 
 **[vim-surround](https://github.com/tpope/vim-surround)**
 

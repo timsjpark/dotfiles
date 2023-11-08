@@ -149,3 +149,6 @@ let g:far#enable_undo=1
 
 " Toggle indent guides
 nnoremap <Leader>dent :IndentGuidesToggle<CR>
+
+" Swap word with last yanked buffer
+nnoremap <C-s> cw<C-r>0<ESC>

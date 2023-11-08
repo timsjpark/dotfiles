@@ -5,7 +5,6 @@
 **Personal Config**
 
 - Use `<C-b>` to navigate to last file in buffer
-- Use `<Leader>dm` to delete all local marks
 
 **[gitgutter](https://github.com/airblade/vim-gitgutter)**
 
@@ -13,6 +12,10 @@
   - This is remapped to `<leader>gtog`
 - Jump between change hunks with `[c` and `]c`
 - You can stage and unstage hunks with `<leader>hs` and `<leader>hu`
+
+**[vim-signature](https://github.com/kshenoy/vim-signature)**
+
+- Use `dm[char]` to delete a specific mark
 
 ## Editing
 

@@ -1,6 +1,6 @@
-alias dc="docker-compose"
-alias dc-rspec="docker-compose run web rspec"
-alias dc-test="docker-compose run web test_all"
+alias dc="docker t compose"
+alias dcbash="docker compose bash"
 
-# Use 1password-enabled env vars with docker build
-alias dcbuild="op run --env-file=\"./.env\" docker-compose build"
+alias vbuild="dc build app db"
+alias vbe="dc up -d app db"
+alias pub="dc up --profile pubsub up -d"

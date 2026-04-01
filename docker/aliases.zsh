@@ -1,4 +1,4 @@
-alias dc="docker t compose"
+alias dc="docker compose"
 alias dcbash="docker compose bash"
 
 alias vbuild="dc build app db"

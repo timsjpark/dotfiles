@@ -46,7 +46,8 @@ set wrapmargin=0
 " Code Style
 set tabstop=2
 set shiftwidth=2
-set softtabstop=2
+set softtabstop=0
+set expandtab
 
 " Syntax highlighting
 syntax on             " Enable syntax highlighting
